@@ -1,2 +1,2 @@
 # Keyword_Search
-In this small python project we search for keywords in files. In output it show the index position of word and line.
+This is GUI based project. I have used tkinter library of python for graphics. This mini project helps us in searching words and there location from all files.
